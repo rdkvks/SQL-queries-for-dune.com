@@ -15,5 +15,8 @@ Shows traders who have made a profit in tokens from the list. The token list, an
 ### Search for a wallet in a token based on its purchase and sale in USD
 Allows you to find a trader's wallet based on their purchase and sale in USD for a specific token. Suitable for finding a wallet using a profit screenshot, for example.Intervals for searching are adjusted in the HAVING block
 
+### Search for a wallet in a token based on its purchase and sale in SOL
+
+Allows you to find a trader's wallet based on their purchase and sale in SOL for a specific token. Suitable for finding a wallet using a profit screenshot, for example.Intervals for searching are adjusted in the HAVING block
 
 
