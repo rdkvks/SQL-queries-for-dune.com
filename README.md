@@ -3,9 +3,6 @@
 ### Wallet statistic
 This query allows you to check the trading statistics of a wallet over a period in the Solana network. It shows its win rate, ROI, PnL, balance and other metrics.
 
-### Wallet search by filters
-The collected statistics are similar to Wallet statistic, but the query searches for all wallets over a period based on your filters
-
 ### Trader's trade history
 The query shows the trade history for a period.
 
